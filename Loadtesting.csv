@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690559699395,8961,Ipad,200,OK,Thread Group 1-33,text,true,,281197,246,50,50,https://www.apple.com/ipad/,30,0,14
+1690559699395,30,Ipad-0,301,Moved Permanently,Thread Group 1-33,,true,,433,123,50,50,http://www.apple.com/ipad/,30,0,14
+1690559699425,8931,Ipad-1,200,OK,Thread Group 1-33,text,true,,280764,123,50,50,https://www.apple.com/ipad/,965,0,807
+1690559699702,8702,Ipad,200,OK,Thread Group 1-48,text,true,,281197,246,50,50,https://www.apple.com/ipad/,49,0,20
+1690559699702,49,Ipad-0,301,Moved Permanently,Thread Group 1-48,,true,,433,123,50,50,http://www.apple.com/ipad/,49,0,20
+1690559699752,8652,Ipad-1,200,OK,Thread Group 1-48,text,true,,280764,123,50,50,https://www.apple.com/ipad/,567,0,518
+1690559699258,9164,Ipad,200,OK,Thread Group 1-26,text,true,,281201,246,50,50,https://www.apple.com/ipad/,39,0,25
+1690559699258,39,Ipad-0,301,Moved Permanently,Thread Group 1-26,,true,,433,123,50,50,http://www.apple.com/ipad/,39,0,25
+1690559699298,9124,Ipad-1,200,OK,Thread Group 1-26,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1161,0,934
+1690559699102,9602,Ipad,200,OK,Thread Group 1-16,text,true,,281197,246,50,50,https://www.apple.com/ipad/,51,0,33
+1690559699102,51,Ipad-0,301,Moved Permanently,Thread Group 1-16,,true,,433,123,50,50,http://www.apple.com/ipad/,51,0,33
+1690559699154,9550,Ipad-1,200,OK,Thread Group 1-16,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1212,0,1083
+1690559699295,9918,Ipad,200,OK,Thread Group 1-28,text,true,,281197,246,50,50,https://www.apple.com/ipad/,30,0,16
+1690559699295,30,Ipad-0,301,Moved Permanently,Thread Group 1-28,,true,,433,123,50,50,http://www.apple.com/ipad/,30,0,16
+1690559699326,9887,Ipad-1,200,OK,Thread Group 1-28,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1604,0,1292
+1690559699477,11018,Ipad,200,OK,Thread Group 1-37,text,true,,281201,246,50,50,https://www.apple.com/ipad/,39,0,22
+1690559699477,39,Ipad-0,301,Moved Permanently,Thread Group 1-37,,true,,433,123,50,50,http://www.apple.com/ipad/,39,0,22
+1690559699516,10979,Ipad-1,200,OK,Thread Group 1-37,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1797,0,735
+1690559699158,11350,Ipad,200,OK,Thread Group 1-21,text,true,,281197,246,50,50,https://www.apple.com/ipad/,37,0,22
+1690559699158,37,Ipad-0,301,Moved Permanently,Thread Group 1-21,,true,,433,123,50,50,http://www.apple.com/ipad/,37,0,22
+1690559699197,11311,Ipad-1,200,OK,Thread Group 1-21,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1193,0,1079
+1690559699515,11166,Ipad,200,OK,Thread Group 1-39,text,true,,281201,246,50,50,https://www.apple.com/ipad/,35,0,17
+1690559699515,35,Ipad-0,301,Moved Permanently,Thread Group 1-39,,true,,433,123,50,50,http://www.apple.com/ipad/,35,0,17
+1690559699551,11130,Ipad-1,200,OK,Thread Group 1-39,text,true,,280768,123,50,50,https://www.apple.com/ipad/,831,0,717
+1690559699037,11791,Ipad,200,OK,Thread Group 1-15,text,true,,281197,246,50,50,https://www.apple.com/ipad/,66,0,38
+1690559699037,74,Ipad-0,301,Moved Permanently,Thread Group 1-15,,true,,433,123,50,50,http://www.apple.com/ipad/,66,0,38
+1690559699116,11712,Ipad-1,200,OK,Thread Group 1-15,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1213,0,1131
+1690559699456,11612,Ipad,200,OK,Thread Group 1-36,text,true,,281197,246,50,50,https://www.apple.com/ipad/,29,0,15
+1690559699456,29,Ipad-0,301,Moved Permanently,Thread Group 1-36,,true,,433,123,50,50,http://www.apple.com/ipad/,29,0,15
+1690559699486,11582,Ipad-1,200,OK,Thread Group 1-36,text,true,,280764,123,50,50,https://www.apple.com/ipad/,805,0,776
+1690559699436,12016,Ipad,200,OK,Thread Group 1-35,text,true,,281197,246,50,50,https://www.apple.com/ipad/,48,0,23
+1690559699436,48,Ipad-0,301,Moved Permanently,Thread Group 1-35,,true,,433,123,50,50,http://www.apple.com/ipad/,48,0,23
+1690559699485,11967,Ipad-1,200,OK,Thread Group 1-35,text,true,,280764,123,50,50,https://www.apple.com/ipad/,834,0,762
+1690559698992,12648,Ipad,200,OK,Thread Group 1-10,text,true,,281201,246,50,50,https://www.apple.com/ipad/,115,0,84
+1690559698992,119,Ipad-0,301,Moved Permanently,Thread Group 1-10,,true,,433,123,50,50,http://www.apple.com/ipad/,115,0,84
+1690559699117,12523,Ipad-1,200,OK,Thread Group 1-10,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1975,0,1129
+1690559699657,12115,Ipad,200,OK,Thread Group 1-45,text,true,,281201,246,50,50,https://www.apple.com/ipad/,38,0,13
+1690559699657,38,Ipad-0,301,Moved Permanently,Thread Group 1-45,,true,,433,123,50,50,http://www.apple.com/ipad/,38,0,13
+1690559699696,12076,Ipad-1,200,OK,Thread Group 1-45,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1563,0,922
+1690559698991,12825,Ipad,200,OK,Thread Group 1-1,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,84
+1690559698991,119,Ipad-0,301,Moved Permanently,Thread Group 1-1,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,84
+1690559699119,12697,Ipad-1,200,OK,Thread Group 1-1,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1717,0,1218
+1690559699597,12385,Ipad,200,OK,Thread Group 1-43,text,true,,281201,246,50,50,https://www.apple.com/ipad/,55,0,20
+1690559699597,55,Ipad-0,301,Moved Permanently,Thread Group 1-43,,true,,433,123,50,50,http://www.apple.com/ipad/,55,0,20
+1690559699653,12329,Ipad-1,200,OK,Thread Group 1-43,text,true,,280768,123,50,50,https://www.apple.com/ipad/,991,0,623
+1690559698989,13070,Ipad,200,OK,Thread Group 1-6,text,true,,281197,246,50,50,https://www.apple.com/ipad/,113,0,85
+1690559698989,121,Ipad-0,301,Moved Permanently,Thread Group 1-6,,true,,433,123,50,50,http://www.apple.com/ipad/,113,0,85
+1690559699115,12944,Ipad-1,200,OK,Thread Group 1-6,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1428,0,1148
+1690559699238,13486,Ipad,200,OK,Thread Group 1-25,text,true,,281201,246,50,50,https://www.apple.com/ipad/,28,0,15
+1690559699238,28,Ipad-0,301,Moved Permanently,Thread Group 1-25,,true,,433,123,50,50,http://www.apple.com/ipad/,28,0,15
+1690559699267,13457,Ipad-1,200,OK,Thread Group 1-25,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2102,0,1365
+1690559698990,14064,Ipad,200,OK,Thread Group 1-9,text,true,,281197,246,50,50,https://www.apple.com/ipad/,113,0,85
+1690559698990,121,Ipad-0,301,Moved Permanently,Thread Group 1-9,,true,,433,123,50,50,http://www.apple.com/ipad/,113,0,85
+1690559699120,13934,Ipad-1,200,OK,Thread Group 1-9,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1271,0,1150
+1690559699216,13880,Ipad,200,OK,Thread Group 1-24,text,true,,281201,246,50,50,https://www.apple.com/ipad/,38,0,16
+1690559699216,38,Ipad-0,301,Moved Permanently,Thread Group 1-24,,true,,433,123,50,50,http://www.apple.com/ipad/,38,0,16
+1690559699255,13841,Ipad-1,200,OK,Thread Group 1-24,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1135,0,1016
+1690559698992,14751,Ipad,200,OK,Thread Group 1-11,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,83
+1690559698992,119,Ipad-0,301,Moved Permanently,Thread Group 1-11,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,83
+1690559699116,14627,Ipad-1,200,OK,Thread Group 1-11,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2292,0,1111
+1690559698996,15099,Ipad,200,OK,Thread Group 1-13,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,79
+1690559698996,115,Ipad-0,301,Moved Permanently,Thread Group 1-13,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,79
+1690559699116,14979,Ipad-1,200,OK,Thread Group 1-13,text,true,,280768,123,50,50,https://www.apple.com/ipad/,3915,0,3482
+1690559699102,15128,Ipad,200,OK,Thread Group 1-17,text,true,,281201,246,50,50,https://www.apple.com/ipad/,51,0,33
+1690559699102,51,Ipad-0,301,Moved Permanently,Thread Group 1-17,,true,,433,123,50,50,http://www.apple.com/ipad/,51,0,33
+1690559699154,15076,Ipad-1,200,OK,Thread Group 1-17,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2768,0,2339
+1690559698990,15272,Ipad,200,OK,Thread Group 1-8,text,true,,281201,246,50,50,https://www.apple.com/ipad/,117,0,86
+1690559698990,121,Ipad-0,301,Moved Permanently,Thread Group 1-8,,true,,433,123,50,50,http://www.apple.com/ipad/,117,0,86
+1690559699118,15144,Ipad-1,200,OK,Thread Group 1-8,text,true,,280768,123,50,50,https://www.apple.com/ipad/,4927,0,4660
+1690559699556,14817,Ipad,200,OK,Thread Group 1-41,text,true,,281201,246,50,50,https://www.apple.com/ipad/,45,0,29
+1690559699556,45,Ipad-0,301,Moved Permanently,Thread Group 1-41,,true,,433,123,50,50,http://www.apple.com/ipad/,45,0,29
+1690559699601,14772,Ipad-1,200,OK,Thread Group 1-41,text,true,,280768,123,50,50,https://www.apple.com/ipad/,890,0,667
+1690559699335,16206,Ipad,200,OK,Thread Group 1-30,text,true,,281201,246,50,50,https://www.apple.com/ipad/,47,0,21
+1690559699335,47,Ipad-0,301,Moved Permanently,Thread Group 1-30,,true,,433,123,50,50,http://www.apple.com/ipad/,47,0,21
+1690559699383,16158,Ipad-1,200,OK,Thread Group 1-30,text,true,,280768,123,50,50,https://www.apple.com/ipad/,3287,0,2874
+1690559699138,16862,Ipad,200,OK,Thread Group 1-20,text,true,,281197,246,50,50,https://www.apple.com/ipad/,30,0,15
+1690559699138,30,Ipad-0,301,Moved Permanently,Thread Group 1-20,,true,,433,123,50,50,http://www.apple.com/ipad/,30,0,15
+1690559699169,16831,Ipad-1,200,OK,Thread Group 1-20,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1145,0,1064
+1690559699101,17105,Ipad,200,OK,Thread Group 1-18,text,true,,281201,246,50,50,https://www.apple.com/ipad/,52,0,34
+1690559699101,52,Ipad-0,301,Moved Permanently,Thread Group 1-18,,true,,433,123,50,50,http://www.apple.com/ipad/,52,0,34
+1690559699154,17052,Ipad-1,200,OK,Thread Group 1-18,text,true,,280768,123,50,50,https://www.apple.com/ipad/,3387,0,1475
+1690559698989,17353,Ipad,200,OK,Thread Group 1-2,text,true,,281197,246,50,50,https://www.apple.com/ipad/,113,0,86
+1690559698989,121,Ipad-0,301,Moved Permanently,Thread Group 1-2,,true,,433,123,50,50,http://www.apple.com/ipad/,113,0,86
+1690559699115,17227,Ipad-1,200,OK,Thread Group 1-2,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1275,0,1120
+1690559699375,17045,Ipad,200,OK,Thread Group 1-32,text,true,,281197,246,50,50,https://www.apple.com/ipad/,35,0,20
+1690559699375,35,Ipad-0,301,Moved Permanently,Thread Group 1-32,,true,,433,123,50,50,http://www.apple.com/ipad/,35,0,20
+1690559699411,17009,Ipad-1,200,OK,Thread Group 1-32,text,true,,280764,123,50,50,https://www.apple.com/ipad/,971,0,857
+1690559699660,17177,Ipad,200,OK,Thread Group 1-46,text,true,,281197,246,50,50,https://www.apple.com/ipad/,56,0,34
+1690559699660,56,Ipad-0,301,Moved Permanently,Thread Group 1-46,,true,,433,123,50,50,http://www.apple.com/ipad/,56,0,34
+1690559699717,17120,Ipad-1,200,OK,Thread Group 1-46,text,true,,280764,123,50,50,https://www.apple.com/ipad/,641,0,537
+1690559699315,17655,Ipad,200,OK,Thread Group 1-29,text,true,,281201,246,50,50,https://www.apple.com/ipad/,41,0,18
+1690559699315,41,Ipad-0,301,Moved Permanently,Thread Group 1-29,,true,,433,123,50,50,http://www.apple.com/ipad/,41,0,18
+1690559699356,17614,Ipad-1,200,OK,Thread Group 1-29,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2168,0,1945
+1690559698991,18549,Ipad,200,OK,Thread Group 1-5,text,true,,281197,246,50,50,https://www.apple.com/ipad/,111,0,83
+1690559698991,119,Ipad-0,301,Moved Permanently,Thread Group 1-5,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,83
+1690559699116,18424,Ipad-1,200,OK,Thread Group 1-5,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1242,0,1159
+1690559698992,18764,Ipad,200,OK,Thread Group 1-12,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,84
+1690559698992,119,Ipad-0,301,Moved Permanently,Thread Group 1-12,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,84
+1690559699118,18638,Ipad-1,200,OK,Thread Group 1-12,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2322,0,1221
+1690559699738,18092,Ipad,200,OK,Thread Group 1-50,text,true,,281201,246,50,50,https://www.apple.com/ipad/,60,0,28
+1690559699738,60,Ipad-0,301,Moved Permanently,Thread Group 1-50,,true,,433,123,50,50,http://www.apple.com/ipad/,60,0,28
+1690559699799,18031,Ipad-1,200,OK,Thread Group 1-50,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1716,0,1502
+1690559699017,19018,Ipad,200,OK,Thread Group 1-14,text,true,,281197,246,50,50,https://www.apple.com/ipad/,310,0,296
+1690559699017,310,Ipad-0,301,Moved Permanently,Thread Group 1-14,,true,,433,123,50,50,http://www.apple.com/ipad/,310,0,296
+1690559699328,18707,Ipad-1,200,OK,Thread Group 1-14,text,true,,280764,123,50,50,https://www.apple.com/ipad/,1288,0,941
+1690559699278,18803,Ipad,200,OK,Thread Group 1-27,text,true,,281317,246,50,50,https://www.apple.com/ipad/,33,0,15
+1690559699278,33,Ipad-0,301,Moved Permanently,Thread Group 1-27,,true,,433,123,50,50,http://www.apple.com/ipad/,33,0,15
+1690559699312,18769,Ipad-1,200,OK,Thread Group 1-27,text,true,,280884,123,50,50,https://www.apple.com/ipad/,991,0,919
+1690559698991,19254,Ipad,200,OK,Thread Group 1-3,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,84
+1690559698991,119,Ipad-0,301,Moved Permanently,Thread Group 1-3,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,84
+1690559699116,19129,Ipad-1,200,OK,Thread Group 1-3,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1479,0,1143
+1690559699579,18758,Ipad,200,OK,Thread Group 1-42,text,true,,281197,246,50,50,https://www.apple.com/ipad/,50,0,21
+1690559699579,50,Ipad-0,301,Moved Permanently,Thread Group 1-42,,true,,433,123,50,50,http://www.apple.com/ipad/,50,0,21
+1690559699630,18707,Ipad-1,200,OK,Thread Group 1-42,text,true,,280764,123,50,50,https://www.apple.com/ipad/,680,0,635
+1690559699654,18876,Ipad,200,OK,Thread Group 1-44,text,true,,281201,246,50,50,https://www.apple.com/ipad/,40,0,12
+1690559699654,40,Ipad-0,301,Moved Permanently,Thread Group 1-44,,true,,433,123,50,50,http://www.apple.com/ipad/,40,0,12
+1690559699696,18834,Ipad-1,200,OK,Thread Group 1-44,text,true,,280768,123,50,50,https://www.apple.com/ipad/,3357,0,2517
+1690559699536,19060,Ipad,200,OK,Thread Group 1-40,text,true,,281197,246,50,50,https://www.apple.com/ipad/,29,0,14
+1690559699536,29,Ipad-0,301,Moved Permanently,Thread Group 1-40,,true,,433,123,50,50,http://www.apple.com/ipad/,29,0,14
+1690559699566,19030,Ipad-1,200,OK,Thread Group 1-40,text,true,,280764,123,50,50,https://www.apple.com/ipad/,738,0,661
+1690559711773,6920,Iphone,200,OK,Thread Group 1-45,text,true,,236749,250,50,50,https://www.apple.com/iphone/,228,0,0
+1690559711773,228,Iphone-0,301,Moved Permanently,Thread Group 1-45,,true,,435,125,50,50,http://www.apple.com/iphone/,228,0,0
+1690559712001,6692,Iphone-1,200,OK,Thread Group 1-45,text,true,,236314,125,50,50,https://www.apple.com/iphone/,189,0,0
+1690559698990,20322,Ipad,200,OK,Thread Group 1-7,text,true,,281197,246,50,50,https://www.apple.com/ipad/,113,0,86
+1690559698990,121,Ipad-0,301,Moved Permanently,Thread Group 1-7,,true,,433,123,50,50,http://www.apple.com/ipad/,113,0,86
+1690559699120,20192,Ipad-1,200,OK,Thread Group 1-7,text,true,,280764,123,50,50,https://www.apple.com/ipad/,2288,0,1148
+1690559712060,7565,Iphone,200,OK,Thread Group 1-6,text,true,,236749,250,50,50,https://www.apple.com/iphone/,231,0,0
+1690559712060,231,Iphone-0,301,Moved Permanently,Thread Group 1-6,,true,,435,125,50,50,http://www.apple.com/iphone/,231,0,0
+1690559712292,7333,Iphone-1,200,OK,Thread Group 1-6,text,true,,236314,125,50,50,https://www.apple.com/iphone/,230,0,0
+1690559699355,20589,Ipad,200,OK,Thread Group 1-31,text,true,,281201,246,50,50,https://www.apple.com/ipad/,41,0,27
+1690559699355,41,Ipad-0,301,Moved Permanently,Thread Group 1-31,,true,,433,123,50,50,http://www.apple.com/ipad/,41,0,27
+1690559699397,20547,Ipad-1,200,OK,Thread Group 1-31,text,true,,280768,123,50,50,https://www.apple.com/ipad/,932,0,849
+1690559699197,20769,Ipad,200,OK,Thread Group 1-23,text,true,,281201,246,50,50,https://www.apple.com/ipad/,31,0,15
+1690559699197,31,Ipad-0,301,Moved Permanently,Thread Group 1-23,,true,,433,123,50,50,http://www.apple.com/ipad/,31,0,15
+1690559699229,20737,Ipad-1,200,OK,Thread Group 1-23,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1059,0,1009
+1690559699177,20904,Ipad,200,OK,Thread Group 1-22,text,true,,281201,246,50,50,https://www.apple.com/ipad/,33,0,18
+1690559699177,33,Ipad-0,301,Moved Permanently,Thread Group 1-22,,true,,433,123,50,50,http://www.apple.com/ipad/,33,0,18
+1690559699211,20870,Ipad-1,200,OK,Thread Group 1-22,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2833,0,2024
+1690559713744,6373,Iphone,200,OK,Thread Group 1-11,text,true,,236749,250,50,50,https://www.apple.com/iphone/,220,0,0
+1690559713744,220,Iphone-0,301,Moved Permanently,Thread Group 1-11,,true,,435,125,50,50,http://www.apple.com/iphone/,220,0,0
+1690559713963,6154,Iphone-1,200,OK,Thread Group 1-11,text,true,,236314,125,50,50,https://www.apple.com/iphone/,227,0,0
+1690559708706,11482,Iphone,200,OK,Thread Group 1-16,text,true,,236749,250,50,50,https://www.apple.com/iphone/,243,0,0
+1690559708706,243,Iphone-0,301,Moved Permanently,Thread Group 1-16,,true,,435,125,50,50,http://www.apple.com/iphone/,243,0,0
+1690559708949,11239,Iphone-1,200,OK,Thread Group 1-16,text,true,,236314,125,50,50,https://www.apple.com/iphone/,740,0,0
+1690559699120,22055,Ipad,200,OK,Thread Group 1-19,text,true,,281201,246,50,50,https://www.apple.com/ipad/,44,0,25
+1690559699120,44,Ipad-0,301,Moved Permanently,Thread Group 1-19,,true,,433,123,50,50,http://www.apple.com/ipad/,44,0,25
+1690559699165,22010,Ipad-1,200,OK,Thread Group 1-19,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2720,0,2245
+1690559711453,10257,Iphone,200,OK,Thread Group 1-35,text,true,,236749,250,50,50,https://www.apple.com/iphone/,242,0,0
+1690559711453,242,Iphone-0,301,Moved Permanently,Thread Group 1-35,,true,,435,125,50,50,http://www.apple.com/iphone/,242,0,0
+1690559711696,10014,Iphone-1,200,OK,Thread Group 1-35,text,true,,236314,125,50,50,https://www.apple.com/iphone/,225,0,0
+1690559708423,13414,Iphone,200,OK,Thread Group 1-26,text,true,,236749,250,50,50,https://www.apple.com/iphone/,220,0,0
+1690559708423,220,Iphone-0,301,Moved Permanently,Thread Group 1-26,,true,,435,125,50,50,http://www.apple.com/iphone/,220,0,0
+1690559708643,13194,Iphone-1,200,OK,Thread Group 1-26,text,true,,236314,125,50,50,https://www.apple.com/iphone/,228,0,0
+1690559699496,22681,Ipad,200,OK,Thread Group 1-38,text,true,,281201,246,50,50,https://www.apple.com/ipad/,37,0,16
+1690559699496,37,Ipad-0,301,Moved Permanently,Thread Group 1-38,,true,,433,123,50,50,http://www.apple.com/ipad/,37,0,16
+1690559699534,22643,Ipad-1,200,OK,Thread Group 1-38,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2282,0,1848
+1690559709213,13167,Iphone,200,OK,Thread Group 1-28,text,true,,236749,250,50,50,https://www.apple.com/iphone/,237,0,0
+1690559709213,237,Iphone-0,301,Moved Permanently,Thread Group 1-28,,true,,435,125,50,50,http://www.apple.com/iphone/,237,0,0
+1690559709450,12930,Iphone-1,200,OK,Thread Group 1-28,text,true,,236314,125,50,50,https://www.apple.com/iphone/,1518,0,0
+1690559699679,23029,Ipad,200,OK,Thread Group 1-47,text,true,,281201,246,50,50,https://www.apple.com/ipad/,72,0,36
+1690559699679,72,Ipad-0,301,Moved Permanently,Thread Group 1-47,,true,,433,123,50,50,http://www.apple.com/ipad/,72,0,36
+1690559699752,22956,Ipad-1,200,OK,Thread Group 1-47,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1722,0,517
+1690559708362,14348,Iphone,200,OK,Thread Group 1-33,text,true,,236749,250,50,50,https://www.apple.com/iphone/,212,0,0
+1690559708362,212,Iphone-0,301,Moved Permanently,Thread Group 1-33,,true,,435,125,50,50,http://www.apple.com/iphone/,212,0,0
+1690559708574,14136,Iphone-1,200,OK,Thread Group 1-33,text,true,,236314,125,50,50,https://www.apple.com/iphone/,1678,0,0
+1690559710496,12266,Iphone,200,OK,Thread Group 1-37,text,true,,236749,250,50,50,https://www.apple.com/iphone/,230,0,0
+1690559710496,230,Iphone-0,301,Moved Permanently,Thread Group 1-37,,true,,435,125,50,50,http://www.apple.com/iphone/,230,0,0
+1690559710726,12036,Iphone-1,200,OK,Thread Group 1-37,text,true,,236314,125,50,50,https://www.apple.com/iphone/,828,0,0
+1690559698991,24228,Ipad,200,OK,Thread Group 1-4,text,true,,281201,246,50,50,https://www.apple.com/ipad/,111,0,83
+1690559698991,119,Ipad-0,301,Moved Permanently,Thread Group 1-4,,true,,433,123,50,50,http://www.apple.com/ipad/,111,0,83
+1690559699120,24099,Ipad-1,200,OK,Thread Group 1-4,text,true,,280768,123,50,50,https://www.apple.com/ipad/,2397,0,2181
+1690559699717,23538,Ipad,200,OK,Thread Group 1-49,text,true,,281201,246,50,50,https://www.apple.com/ipad/,65,0,34
+1690559699717,65,Ipad-0,301,Moved Permanently,Thread Group 1-49,,true,,433,123,50,50,http://www.apple.com/ipad/,65,0,34
+1690559699783,23472,Ipad-1,200,OK,Thread Group 1-49,text,true,,280768,123,50,50,https://www.apple.com/ipad/,1452,0,807
+1690559711983,11282,Iphone,200,OK,Thread Group 1-43,text,true,,236749,250,50,50,https://www.apple.com/iphone/,207,0,0
+1690559711983,207,Iphone-0,301,Moved Permanently,Thread Group 1-43,,true,,435,125,50,50,http://www.apple.com/iphone/,207,0,0
+1690559712191,11074,Iphone-1,200,OK,Thread Group 1-43,text,true,,236314,125,50,50,https://www.apple.com/iphone/,214,0,0
+1690559713055,10302,Iphone,200,OK,Thread Group 1-9,text,true,,236749,250,50,50,https://www.apple.com/iphone/,231,0,0
+1690559713055,231,Iphone-0,301,Moved Permanently,Thread Group 1-9,,true,,435,125,50,50,http://www.apple.com/iphone/,231,0,0
+1690559713286,10071,Iphone-1,200,OK,Thread Group 1-9,text,true,,236314,125,50,50,https://www.apple.com/iphone/,445,0,0
+1690559708406,15433,Iphone,200,OK,Thread Group 1-48,text,true,,236749,250,50,50,https://www.apple.com/iphone/,224,0,0
+1690559708406,224,Iphone-0,301,Moved Permanently,Thread Group 1-48,,true,,435,125,50,50,http://www.apple.com/iphone/,224,0,0
+1690559708631,15208,Iphone-1,200,OK,Thread Group 1-48,text,true,,236314,125,50,50,https://www.apple.com/iphone/,217,0,0
+1690559710509,13345,Iphone,200,OK,Thread Group 1-21,text,true,,236749,250,50,50,https://www.apple.com/iphone/,217,0,0
+1690559710509,217,Iphone-0,301,Moved Permanently,Thread Group 1-21,,true,,435,125,50,50,http://www.apple.com/iphone/,217,0,0
+1690559710726,13128,Iphone-1,200,OK,Thread Group 1-21,text,true,,236314,125,50,50,https://www.apple.com/iphone/,422,0,0
+1690559711069,13022,Iphone,200,OK,Thread Group 1-36,text,true,,236749,250,50,50,https://www.apple.com/iphone/,242,0,0
+1690559711069,242,Iphone-0,301,Moved Permanently,Thread Group 1-36,,true,,435,125,50,50,http://www.apple.com/iphone/,242,0,0
+1690559711312,12779,Iphone-1,200,OK,Thread Group 1-36,text,true,,236314,125,50,50,https://www.apple.com/iphone/,208,0,0
+1690559714229,10587,Iphone,200,OK,Thread Group 1-17,text,true,,236749,250,50,50,https://www.apple.com/iphone/,205,0,0
+1690559714229,205,Iphone-0,301,Moved Permanently,Thread Group 1-17,,true,,435,125,50,50,http://www.apple.com/iphone/,205,0,0
+1690559714435,10381,Iphone-1,200,OK,Thread Group 1-17,text,true,,236314,125,50,50,https://www.apple.com/iphone/,237,0,0
+1690559716341,8500,Iphone,200,OK,Thread Group 1-2,text,true,,236749,250,50,50,https://www.apple.com/iphone/,432,0,0
+1690559716341,432,Iphone-0,301,Moved Permanently,Thread Group 1-2,,true,,435,125,50,50,http://www.apple.com/iphone/,432,0,0
+1690559716773,8068,Iphone-1,200,OK,Thread Group 1-2,text,true,,236314,125,50,50,https://www.apple.com/iphone/,225,0,0
+1690559711641,13208,Iphone,200,OK,Thread Group 1-10,text,true,,236749,250,50,50,https://www.apple.com/iphone/,260,0,0
+1690559711641,260,Iphone-0,301,Moved Permanently,Thread Group 1-10,,true,,435,125,50,50,http://www.apple.com/iphone/,260,0,0
+1690559711902,12947,Iphone-1,200,OK,Thread Group 1-10,text,true,,236314,125,50,50,https://www.apple.com/iphone/,218,0,0
+1690559717755,7092,Iphone,200,OK,Thread Group 1-12,text,true,,236749,250,50,50,https://www.apple.com/iphone/,221,0,0
+1690559717755,221,Iphone-0,301,Moved Permanently,Thread Group 1-12,,true,,435,125,50,50,http://www.apple.com/iphone/,221,0,0
+1690559717977,6870,Iphone-1,200,OK,Thread Group 1-12,text,true,,236314,125,50,50,https://www.apple.com/iphone/,447,0,0
+1690559699416,25741,Ipad,200,OK,Thread Group 1-34,text,true,,281197,246,50,50,https://www.apple.com/ipad/,44,0,28
+1690559699416,44,Ipad-0,301,Moved Permanently,Thread Group 1-34,,true,,433,123,50,50,http://www.apple.com/ipad/,44,0,28
+1690559699461,25696,Ipad-1,200,OK,Thread Group 1-34,text,true,,280764,123,50,50,https://www.apple.com/ipad/,961,0,774
+1690559710829,14426,Iphone,200,OK,Thread Group 1-15,text,true,,236749,250,50,50,https://www.apple.com/iphone/,239,0,0
+1690559710829,239,Iphone-0,301,Moved Permanently,Thread Group 1-15,,true,,435,125,50,50,http://www.apple.com/iphone/,239,0,0
+1690559711068,14187,Iphone-1,200,OK,Thread Group 1-15,text,true,,236314,125,50,50,https://www.apple.com/iphone/,223,0,0
+1690559715540,10406,Iphone,200,OK,Thread Group 1-30,text,true,,236749,250,50,50,https://www.apple.com/iphone/,224,0,0
+1690559715540,224,Iphone-0,301,Moved Permanently,Thread Group 1-30,,true,,435,125,50,50,http://www.apple.com/iphone/,224,0,0
+1690559715764,10182,Iphone-1,200,OK,Thread Group 1-30,text,true,,236314,125,50,50,https://www.apple.com/iphone/,270,0,0
+1690559711817,14807,Iphone,200,OK,Thread Group 1-1,text,true,,236749,250,50,50,https://www.apple.com/iphone/,224,0,0
+1690559712725,13899,Iphone,200,OK,Thread Group 1-25,text,true,,236749,250,50,50,https://www.apple.com/iphone/,257,0,0
+1690559711817,224,Iphone-0,301,Moved Permanently,Thread Group 1-1,,true,,435,125,50,50,http://www.apple.com/iphone/,224,0,0
+1690559712725,257,Iphone-0,301,Moved Permanently,Thread Group 1-25,,true,,435,125,50,50,http://www.apple.com/iphone/,257,0,0
+1690559712042,14582,Iphone-1,200,OK,Thread Group 1-1,text,true,,236314,125,50,50,https://www.apple.com/iphone/,688,0,0
+1690559712983,13641,Iphone-1,200,OK,Thread Group 1-25,text,true,,236314,125,50,50,https://www.apple.com/iphone/,490,0,0
+1690559715999,10652,Iphone,200,OK,Thread Group 1-20,text,true,,236749,250,50,50,https://www.apple.com/iphone/,320,0,0
+1690559715999,320,Iphone-0,301,Moved Permanently,Thread Group 1-20,,true,,435,125,50,50,http://www.apple.com/iphone/,320,0,0
+1690559716319,10332,Iphone-1,200,OK,Thread Group 1-20,text,true,,236314,125,50,50,https://www.apple.com/iphone/,265,0,0
+1690559718244,8760,Iphone,200,OK,Thread Group 1-3,text,true,,236749,250,50,50,https://www.apple.com/iphone/,239,0,0
+1690559718244,239,Iphone-0,301,Moved Permanently,Thread Group 1-3,,true,,435,125,50,50,http://www.apple.com/iphone/,239,0,0
+1690559718484,8520,Iphone-1,200,OK,Thread Group 1-3,text,true,,236314,125,50,50,https://www.apple.com/iphone/,177,0,0
+1690559721838,5402,Watch,200,OK,Thread Group 1-26,text,true,,187511,248,50,50,https://www.apple.com/watch/,259,0,0
+1690559721838,259,Watch-0,301,Moved Permanently,Thread Group 1-26,,true,,434,124,50,50,http://www.apple.com/watch/,259,0,0
+1690559722097,5143,Watch-1,200,OK,Thread Group 1-26,text,true,,187077,124,50,50,https://www.apple.com/watch/,644,0,0
+1690559710681,17068,Iphone,200,OK,Thread Group 1-39,text,true,,236749,250,49,49,https://www.apple.com/iphone/,201,0,0
+1690559710681,201,Iphone-0,301,Moved Permanently,Thread Group 1-39,,true,,435,125,49,49,http://www.apple.com/iphone/,201,0,0
+1690559710882,16867,Iphone-1,200,OK,Thread Group 1-39,text,true,,236314,125,49,49,https://www.apple.com/iphone/,236,0,0
+1690559720189,7717,Watch,200,OK,Thread Group 1-16,text,true,,187511,248,49,49,https://www.apple.com/watch/,220,0,0
+1690559720189,220,Watch-0,301,Moved Permanently,Thread Group 1-16,,true,,434,124,49,49,http://www.apple.com/watch/,220,0,0
+1690559720409,7497,Watch-1,200,OK,Thread Group 1-16,text,true,,187077,124,49,49,https://www.apple.com/watch/,1750,0,0
+1690559721711,6334,Watch,200,OK,Thread Group 1-35,text,true,,187511,248,48,48,https://www.apple.com/watch/,200,0,0
+1690559721711,200,Watch-0,301,Moved Permanently,Thread Group 1-35,,true,,434,124,48,48,http://www.apple.com/watch/,200,0,0
+1690559721911,6134,Watch-1,200,OK,Thread Group 1-35,text,true,,187077,124,48,48,https://www.apple.com/watch/,3247,0,0
+1690559714261,14616,Iphone,200,OK,Thread Group 1-8,text,true,,236749,250,47,47,https://www.apple.com/iphone/,232,0,0
+1690559714261,232,Iphone-0,301,Moved Permanently,Thread Group 1-8,,true,,435,125,47,47,http://www.apple.com/iphone/,232,0,0
+1690559714494,14383,Iphone-1,200,OK,Thread Group 1-8,text,true,,236314,125,47,47,https://www.apple.com/iphone/,426,0,0
+1690559719626,9262,Watch,200,OK,Thread Group 1-6,text,true,,187511,248,47,47,https://www.apple.com/watch/,235,0,0
+1690559719626,235,Watch-0,301,Moved Permanently,Thread Group 1-6,,true,,434,124,47,47,http://www.apple.com/watch/,235,0,0
+1690559719862,9026,Watch-1,200,OK,Thread Group 1-6,text,true,,187077,124,47,47,https://www.apple.com/watch/,1339,0,0
+1690559723266,5629,Watch,200,OK,Thread Group 1-43,text,true,,187510,248,46,46,https://www.apple.com/watch/,327,0,0
+1690559723266,327,Watch-0,301,Moved Permanently,Thread Group 1-43,,true,,434,124,46,46,http://www.apple.com/watch/,327,0,0
+1690559723593,5302,Watch-1,200,OK,Thread Group 1-43,text,true,,187076,124,46,46,https://www.apple.com/watch/,729,0,0
+1690559718529,10408,Iphone,200,OK,Thread Group 1-44,text,true,,236749,250,45,45,https://www.apple.com/iphone/,220,0,0
+1690559718529,220,Iphone-0,301,Moved Permanently,Thread Group 1-44,,true,,435,125,45,45,http://www.apple.com/iphone/,220,0,0
+1690559718749,10188,Iphone-1,200,OK,Thread Group 1-44,text,true,,236314,125,45,45,https://www.apple.com/iphone/,412,0,0
+1690559719945,9058,Iphone,200,OK,Thread Group 1-31,text,true,,236749,250,45,45,https://www.apple.com/iphone/,240,0,0
+1690559719945,240,Iphone-0,301,Moved Permanently,Thread Group 1-31,,true,,435,125,45,45,http://www.apple.com/iphone/,240,0,0
+1690559720185,8818,Iphone-1,200,OK,Thread Group 1-31,text,true,,236314,125,45,45,https://www.apple.com/iphone/,224,0,0
+1690559718034,11156,Iphone,200,OK,Thread Group 1-14,text,true,,236749,250,45,45,https://www.apple.com/iphone/,232,0,0
+1690559718034,232,Iphone-0,301,Moved Permanently,Thread Group 1-14,,true,,435,125,45,45,http://www.apple.com/iphone/,232,0,0
+1690559718266,10924,Iphone-1,200,OK,Thread Group 1-14,text,true,,236314,125,45,45,https://www.apple.com/iphone/,404,0,0
+1690559724850,4449,Watch,200,OK,Thread Group 1-12,text,true,,187511,248,45,45,https://www.apple.com/watch/,241,0,0
+1690559724850,241,Watch-0,301,Moved Permanently,Thread Group 1-12,,true,,434,124,45,45,http://www.apple.com/watch/,241,0,0
+1690559725091,4208,Watch-1,200,OK,Thread Group 1-12,text,true,,187077,124,45,45,https://www.apple.com/watch/,656,0,0
+1690559720083,9301,Iphone,200,OK,Thread Group 1-22,text,true,,236749,250,44,44,https://www.apple.com/iphone/,219,0,0
+1690559720083,219,Iphone-0,301,Moved Permanently,Thread Group 1-22,,true,,435,125,44,44,http://www.apple.com/iphone/,219,0,0
+1690559720303,9081,Iphone-1,200,OK,Thread Group 1-22,text,true,,236314,125,44,44,https://www.apple.com/iphone/,262,0,0
+1690559716836,12582,Iphone,200,OK,Thread Group 1-46,text,true,,236749,250,44,44,https://www.apple.com/iphone/,227,0,0
+1690559716836,227,Iphone-0,301,Moved Permanently,Thread Group 1-46,,true,,435,125,44,44,http://www.apple.com/iphone/,227,0,0
+1690559717063,12355,Iphone-1,200,OK,Thread Group 1-46,text,true,,236314,125,44,44,https://www.apple.com/iphone/,454,0,0
+1690559716419,13138,Iphone,200,OK,Thread Group 1-32,text,true,,236749,250,44,44,https://www.apple.com/iphone/,416,0,0
+1690559716419,416,Iphone-0,301,Moved Permanently,Thread Group 1-32,,true,,435,125,44,44,http://www.apple.com/iphone/,416,0,0
+1690559716836,12721,Iphone-1,200,OK,Thread Group 1-32,text,true,,236314,125,44,44,https://www.apple.com/iphone/,653,0,0
+1690559723840,6160,Watch,200,OK,Thread Group 1-48,text,true,,187510,248,44,44,https://www.apple.com/watch/,182,0,0
+1690559723840,182,Watch-0,301,Moved Permanently,Thread Group 1-48,,true,,434,124,44,44,http://www.apple.com/watch/,182,0,0
+1690559724022,5978,Watch-1,200,OK,Thread Group 1-48,text,true,,187076,124,44,44,https://www.apple.com/watch/,821,0,0
+1690559723358,6925,Watch,200,OK,Thread Group 1-9,text,true,,187511,248,43,43,https://www.apple.com/watch/,459,0,0
+1690559723358,459,Watch-0,301,Moved Permanently,Thread Group 1-9,,true,,434,124,43,43,http://www.apple.com/watch/,459,0,0
+1690559723818,6465,Watch-1,200,OK,Thread Group 1-9,text,true,,187077,124,43,43,https://www.apple.com/watch/,634,0,0
+1690559721176,9232,Iphone,200,OK,Thread Group 1-19,text,true,,236749,250,42,42,https://www.apple.com/iphone/,254,0,0
+1690559721176,254,Iphone-0,301,Moved Permanently,Thread Group 1-19,,true,,435,125,42,42,http://www.apple.com/iphone/,254,0,0
+1690559721430,8978,Iphone-1,200,OK,Thread Group 1-19,text,true,,236314,125,42,42,https://www.apple.com/iphone/,218,0,0
+1690559725949,4496,Watch,200,OK,Thread Group 1-30,text,true,,187511,248,42,42,https://www.apple.com/watch/,223,0,0
+1690559714372,16071,Iphone,200,OK,Thread Group 1-41,text,true,,236749,250,42,42,https://www.apple.com/iphone/,215,0,0
+1690559725949,223,Watch-0,301,Moved Permanently,Thread Group 1-30,,true,,434,124,42,42,http://www.apple.com/watch/,223,0,0
+1690559714372,215,Iphone-0,301,Moved Permanently,Thread Group 1-41,,true,,435,125,42,42,http://www.apple.com/iphone/,215,0,0
+1690559726172,4273,Watch-1,200,OK,Thread Group 1-30,text,true,,187077,124,42,42,https://www.apple.com/watch/,1280,0,0
+1690559714588,15855,Iphone-1,200,OK,Thread Group 1-41,text,true,,236314,125,42,42,https://www.apple.com/iphone/,223,0,0
+1690559716205,14382,Iphone,200,OK,Thread Group 1-18,text,true,,236749,250,41,41,https://www.apple.com/iphone/,227,0,0
+1690559716205,227,Iphone-0,301,Moved Permanently,Thread Group 1-18,,true,,435,125,41,41,http://www.apple.com/iphone/,227,0,0
+1690559716432,14155,Iphone-1,200,OK,Thread Group 1-18,text,true,,236314,125,41,41,https://www.apple.com/iphone/,230,0,0
+1690559718079,12531,Iphone,200,OK,Thread Group 1-27,text,true,,236749,250,41,41,https://www.apple.com/iphone/,214,0,0
+1690559718079,214,Iphone-0,301,Moved Permanently,Thread Group 1-27,,true,,435,125,41,41,http://www.apple.com/iphone/,214,0,0
+1690559718294,12316,Iphone-1,200,OK,Thread Group 1-27,text,true,,236314,125,41,41,https://www.apple.com/iphone/,234,0,0
+1690559717829,12808,Iphone,200,OK,Thread Group 1-50,text,true,,236749,250,41,41,https://www.apple.com/iphone/,217,0,0
+1690559717829,217,Iphone-0,301,Moved Permanently,Thread Group 1-50,,true,,435,125,41,41,http://www.apple.com/iphone/,217,0,0
+1690559718046,12591,Iphone-1,200,OK,Thread Group 1-50,text,true,,236314,125,41,41,https://www.apple.com/iphone/,248,0,0
+1690559718595,12137,Iphone,200,OK,Thread Group 1-40,text,true,,236749,250,41,41,https://www.apple.com/iphone/,185,0,0
+1690559718595,185,Iphone-0,301,Moved Permanently,Thread Group 1-40,,true,,435,125,41,41,http://www.apple.com/iphone/,185,0,0
+1690559718781,11951,Iphone-1,200,OK,Thread Group 1-40,text,true,,236314,125,41,41,https://www.apple.com/iphone/,333,0,0
+1690559713097,17795,Iphone,200,OK,Thread Group 1-24,text,true,,236749,250,41,41,https://www.apple.com/iphone/,233,0,0
+1690559713097,233,Iphone-0,301,Moved Permanently,Thread Group 1-24,,true,,435,125,41,41,http://www.apple.com/iphone/,233,0,0
+1690559713330,17562,Iphone-1,200,OK,Thread Group 1-24,text,true,,236314,125,41,41,https://www.apple.com/iphone/,229,0,0
+1690559717539,13366,Iphone,200,OK,Thread Group 1-5,text,true,,236749,250,41,41,https://www.apple.com/iphone/,226,0,0
+1690559717539,226,Iphone-0,301,Moved Permanently,Thread Group 1-5,,true,,435,125,41,41,http://www.apple.com/iphone/,226,0,0
+1690559717766,13139,Iphone-1,200,OK,Thread Group 1-5,text,true,,236314,125,41,41,https://www.apple.com/iphone/,212,0,0
+1690559718692,12651,Watch,200,OK,Thread Group 1-45,text,true,,187627,248,41,41,https://www.apple.com/watch/,257,0,0
+1690559718692,257,Watch-0,301,Moved Permanently,Thread Group 1-45,,true,,434,124,41,41,http://www.apple.com/watch/,257,0,0
+1690559718951,12392,Watch-1,200,OK,Thread Group 1-45,text,true,,187193,124,41,41,https://www.apple.com/watch/,661,0,0
+1690559720120,11291,Watch,200,OK,Thread Group 1-11,text,true,,187511,248,40,40,https://www.apple.com/watch/,267,0,0
+1690559720120,267,Watch-0,301,Moved Permanently,Thread Group 1-11,,true,,434,124,40,40,http://www.apple.com/watch/,267,0,0
+1690559720387,11024,Watch-1,200,OK,Thread Group 1-11,text,true,,187077,124,40,40,https://www.apple.com/watch/,849,0,0
+1690559718336,13389,Iphone,200,OK,Thread Group 1-42,text,true,,236749,250,39,39,https://www.apple.com/iphone/,224,0,0
+1690559718336,224,Iphone-0,301,Moved Permanently,Thread Group 1-42,,true,,435,125,39,39,http://www.apple.com/iphone/,224,0,0
+1690559718560,13165,Iphone-1,200,OK,Thread Group 1-42,text,true,,236314,125,39,39,https://www.apple.com/iphone/,554,0,0
+1690559722709,9163,Iphone,200,OK,Thread Group 1-47,text,true,,236749,250,39,39,https://www.apple.com/iphone/,510,0,0
+1690559722709,510,Iphone-0,301,Moved Permanently,Thread Group 1-47,,true,,435,125,39,39,http://www.apple.com/iphone/,510,0,0
+1690559723219,8653,Iphone-1,200,OK,Thread Group 1-47,text,true,,236314,125,39,39,https://www.apple.com/iphone/,238,0,0
+1690559716968,14962,Iphone,200,OK,Thread Group 1-29,text,true,,236749,250,39,39,https://www.apple.com/iphone/,233,0,0
+1690559716968,233,Iphone-0,301,Moved Permanently,Thread Group 1-29,,true,,435,125,39,39,http://www.apple.com/iphone/,233,0,0
+1690559717201,14729,Iphone-1,200,OK,Thread Group 1-29,text,true,,236314,125,39,39,https://www.apple.com/iphone/,1807,0,0
+1690559725256,6792,Watch,200,OK,Thread Group 1-15,text,true,,187511,248,39,39,https://www.apple.com/watch/,230,0,0
+1690559725256,230,Watch-0,301,Moved Permanently,Thread Group 1-15,,true,,434,124,39,39,http://www.apple.com/watch/,230,0,0
+1690559725487,6561,Watch-1,200,OK,Thread Group 1-15,text,true,,187077,124,39,39,https://www.apple.com/watch/,940,0,0
+1690559726654,5847,Watch,200,OK,Thread Group 1-20,text,true,,187511,248,38,38,https://www.apple.com/watch/,667,0,0
+1690559726654,667,Watch-0,301,Moved Permanently,Thread Group 1-20,,true,,434,124,38,38,http://www.apple.com/watch/,667,0,0
+1690559727322,5179,Watch-1,200,OK,Thread Group 1-20,text,true,,187077,124,38,38,https://www.apple.com/watch/,970,0,0
+1690559725158,7390,Iphone,200,OK,Thread Group 1-34,text,true,,236749,250,37,37,https://www.apple.com/iphone/,274,0,0
+1690559725158,274,Iphone-0,301,Moved Permanently,Thread Group 1-34,,true,,435,125,37,37,http://www.apple.com/iphone/,274,0,0
+1690559725432,7116,Iphone-1,200,OK,Thread Group 1-34,text,true,,236314,125,37,37,https://www.apple.com/iphone/,448,0,0
+1690559723256,9461,Iphone,200,OK,Thread Group 1-49,text,true,,236749,250,37,37,https://www.apple.com/iphone/,337,0,0
+1690559723256,337,Iphone-0,301,Moved Permanently,Thread Group 1-49,,true,,435,125,37,37,http://www.apple.com/iphone/,337,0,0
+1690559723593,9124,Iphone-1,200,OK,Thread Group 1-49,text,true,,236314,125,37,37,https://www.apple.com/iphone/,264,0,0
+1690559722381,10504,Watch,200,OK,Thread Group 1-28,text,true,,187511,248,37,37,https://www.apple.com/watch/,329,0,0
+1690559722381,329,Watch-0,301,Moved Permanently,Thread Group 1-28,,true,,434,124,37,37,http://www.apple.com/watch/,329,0,0
+1690559722711,10174,Watch-1,200,OK,Thread Group 1-28,text,true,,187077,124,37,37,https://www.apple.com/watch/,1128,0,0
+1690559722711,10493,Watch,200,OK,Thread Group 1-33,text,true,,187511,248,36,36,https://www.apple.com/watch/,238,0,0
+1690559722711,238,Watch-0,301,Moved Permanently,Thread Group 1-33,,true,,434,124,36,36,http://www.apple.com/watch/,238,0,0
+1690559722949,10255,Watch-1,200,OK,Thread Group 1-33,text,true,,187077,124,36,36,https://www.apple.com/watch/,836,0,0
+1690559722178,11077,Iphone,200,OK,Thread Group 1-38,text,true,,236749,250,35,35,https://www.apple.com/iphone/,249,0,0
+1690559722178,249,Iphone-0,301,Moved Permanently,Thread Group 1-38,,true,,435,125,35,35,http://www.apple.com/iphone/,249,0,0
+1690559722427,10828,Iphone-1,200,OK,Thread Group 1-38,text,true,,236314,125,35,35,https://www.apple.com/iphone/,931,0,0
+1690559719967,13366,Iphone,200,OK,Thread Group 1-23,text,true,,236749,250,35,35,https://www.apple.com/iphone/,241,0,0
+1690559719967,241,Iphone-0,301,Moved Permanently,Thread Group 1-23,,true,,435,125,35,35,http://www.apple.com/iphone/,241,0,0
+1690559720209,13124,Iphone-1,200,OK,Thread Group 1-23,text,true,,236314,125,35,35,https://www.apple.com/iphone/,225,0,0
+1690559724091,9708,Watch,200,OK,Thread Group 1-36,text,true,,187511,248,35,35,https://www.apple.com/watch/,278,0,0
+1690559724091,278,Watch-0,301,Moved Permanently,Thread Group 1-36,,true,,434,124,35,35,http://www.apple.com/watch/,278,0,0
+1690559724369,9430,Watch-1,200,OK,Thread Group 1-36,text,true,,187077,124,35,35,https://www.apple.com/watch/,1234,0,0
+1690559730892,3612,Watch,200,OK,Thread Group 1-24,text,true,,187511,248,34,34,https://www.apple.com/watch/,232,0,0
+1690559730892,232,Watch-0,301,Moved Permanently,Thread Group 1-24,,true,,434,124,34,34,http://www.apple.com/watch/,232,0,0
+1690559731124,3380,Watch-1,200,OK,Thread Group 1-24,text,true,,187077,124,34,34,https://www.apple.com/watch/,421,0,0
+1690559714094,20518,Iphone,200,OK,Thread Group 1-13,text,true,,236749,250,33,33,https://www.apple.com/iphone/,224,0,0
+1690559714094,224,Iphone-0,301,Moved Permanently,Thread Group 1-13,,true,,435,125,33,33,http://www.apple.com/iphone/,224,0,0
+1690559714319,20293,Iphone-1,200,OK,Thread Group 1-13,text,true,,236314,125,33,33,https://www.apple.com/iphone/,1087,0,0
+1690559728938,5721,Watch,200,OK,Thread Group 1-44,text,true,,187510,248,33,33,https://www.apple.com/watch/,241,0,0
+1690559728938,241,Watch-0,301,Moved Permanently,Thread Group 1-44,,true,,434,124,33,33,http://www.apple.com/watch/,241,0,0
+1690559729179,5480,Watch-1,200,OK,Thread Group 1-44,text,true,,187076,124,33,33,https://www.apple.com/watch/,435,0,0
+1690559730638,4046,Watch,200,OK,Thread Group 1-50,text,true,,187510,248,32,32,https://www.apple.com/watch/,212,0,0
+1690559730638,212,Watch-0,301,Moved Permanently,Thread Group 1-50,,true,,434,124,32,32,http://www.apple.com/watch/,212,0,0
+1690559724850,9835,Watch,200,OK,Thread Group 1-10,text,true,,187510,248,32,32,https://www.apple.com/watch/,241,0,0
+1690559730850,3834,Watch-1,200,OK,Thread Group 1-50,text,true,,187076,124,32,32,https://www.apple.com/watch/,625,0,0
+1690559724850,241,Watch-0,301,Moved Permanently,Thread Group 1-10,,true,,434,124,32,32,http://www.apple.com/watch/,241,0,0
+1690559725091,9594,Watch-1,200,OK,Thread Group 1-10,text,true,,187076,124,32,32,https://www.apple.com/watch/,2334,0,0
+1690559730907,3888,Watch,200,OK,Thread Group 1-5,text,true,,187510,248,30,30,https://www.apple.com/watch/,243,0,0
+1690559730907,243,Watch-0,301,Moved Permanently,Thread Group 1-5,,true,,434,124,30,30,http://www.apple.com/watch/,243,0,0
+1690559731151,3644,Watch-1,200,OK,Thread Group 1-5,text,true,,187076,124,30,30,https://www.apple.com/watch/,423,0,0
+1690559724819,10051,Watch,200,OK,Thread Group 1-17,text,true,,187511,248,29,29,https://www.apple.com/watch/,225,0,0
+1690559724819,225,Watch-0,301,Moved Permanently,Thread Group 1-17,,true,,434,124,29,29,http://www.apple.com/watch/,225,0,0
+1690559725044,9826,Watch-1,200,OK,Thread Group 1-17,text,true,,187077,124,29,29,https://www.apple.com/watch/,2498,0,0
+1690559727750,7233,Watch,200,OK,Thread Group 1-39,text,true,,187511,248,28,28,https://www.apple.com/watch/,173,0,0
+1690559727750,173,Watch-0,301,Moved Permanently,Thread Group 1-39,,true,,434,124,28,28,http://www.apple.com/watch/,173,0,0
+1690559727924,7059,Watch-1,200,OK,Thread Group 1-39,text,true,,187077,124,28,28,https://www.apple.com/watch/,940,0,0
+1690559726625,8493,Watch,200,OK,Thread Group 1-1,text,true,,187511,248,27,27,https://www.apple.com/watch/,397,0,0
+1690559726625,397,Watch-0,301,Moved Permanently,Thread Group 1-1,,true,,434,124,27,27,http://www.apple.com/watch/,397,0,0
+1690559727022,8096,Watch-1,200,OK,Thread Group 1-1,text,true,,187077,124,27,27,https://www.apple.com/watch/,1916,0,0
+1690559730408,4837,Watch,200,OK,Thread Group 1-19,text,true,,187510,248,26,26,https://www.apple.com/watch/,185,0,0
+1690559730408,185,Watch-0,301,Moved Permanently,Thread Group 1-19,,true,,434,124,26,26,http://www.apple.com/watch/,185,0,0
+1690559730593,4652,Watch-1,200,OK,Thread Group 1-19,text,true,,187076,124,26,26,https://www.apple.com/watch/,398,0,0
+1690559724843,10417,Watch,200,OK,Thread Group 1-2,text,true,,187507,248,25,25,https://www.apple.com/watch/,248,0,0
+1690559724843,248,Watch-0,301,Moved Permanently,Thread Group 1-2,,true,,434,124,25,25,http://www.apple.com/watch/,248,0,0
+1690559725091,10169,Watch-1,200,OK,Thread Group 1-2,text,true,,187073,124,25,25,https://www.apple.com/watch/,1878,0,0
+1690559730588,4809,Watch,200,OK,Thread Group 1-18,text,true,,187510,248,24,24,https://www.apple.com/watch/,200,0,0
+1690559730588,200,Watch-0,301,Moved Permanently,Thread Group 1-18,,true,,434,124,24,24,http://www.apple.com/watch/,200,0,0
+1690559730789,4608,Watch-1,200,OK,Thread Group 1-18,text,true,,187076,124,24,24,https://www.apple.com/watch/,621,0,0
+1690559719314,16093,Iphone,200,OK,Thread Group 1-7,text,true,,236749,250,23,23,https://www.apple.com/iphone/,211,0,0
+1690559719314,211,Iphone-0,301,Moved Permanently,Thread Group 1-7,,true,,435,125,23,23,http://www.apple.com/iphone/,211,0,0
+1690559719525,15882,Iphone-1,200,OK,Thread Group 1-7,text,true,,236314,125,23,23,https://www.apple.com/iphone/,660,0,0
+1690559723855,11638,Watch,200,OK,Thread Group 1-21,text,true,,187510,248,23,23,https://www.apple.com/watch/,223,0,0
+1690559723855,223,Watch-0,301,Moved Permanently,Thread Group 1-21,,true,,434,124,23,23,http://www.apple.com/watch/,223,0,0
+1690559724079,11414,Watch-1,200,OK,Thread Group 1-21,text,true,,187076,124,23,23,https://www.apple.com/watch/,739,0,0
+1690559729384,6453,Watch,200,OK,Thread Group 1-22,text,true,,187511,248,22,22,https://www.apple.com/watch/,207,0,0
+1690559729384,207,Watch-0,301,Moved Permanently,Thread Group 1-22,,true,,434,124,22,22,http://www.apple.com/watch/,207,0,0
+1690559729591,6246,Watch-1,200,OK,Thread Group 1-22,text,true,,187077,124,22,22,https://www.apple.com/watch/,1613,0,0
+1690559723220,12623,Iphone,200,OK,Thread Group 1-4,text,true,,236749,250,21,21,https://www.apple.com/iphone/,228,0,0
+1690559723220,228,Iphone-0,301,Moved Permanently,Thread Group 1-4,,true,,435,125,21,21,http://www.apple.com/iphone/,228,0,0
+1690559723449,12394,Iphone-1,200,OK,Thread Group 1-4,text,true,,236314,125,21,21,https://www.apple.com/iphone/,495,0,0
+1690559729420,6467,Watch,200,OK,Thread Group 1-46,text,true,,187510,248,21,21,https://www.apple.com/watch/,212,0,0
+1690559729420,212,Watch-0,301,Moved Permanently,Thread Group 1-46,,true,,434,124,21,21,http://www.apple.com/watch/,212,0,0
+1690559729633,6254,Watch-1,200,OK,Thread Group 1-46,text,true,,187076,124,21,21,https://www.apple.com/watch/,811,0,0
+1690559730734,5624,Watch,200,OK,Thread Group 1-40,text,true,,187511,248,20,20,https://www.apple.com/watch/,225,0,0
+1690559730734,225,Watch-0,301,Moved Permanently,Thread Group 1-40,,true,,434,124,20,20,http://www.apple.com/watch/,225,0,0
+1690559730960,5398,Watch-1,200,OK,Thread Group 1-40,text,true,,187077,124,20,20,https://www.apple.com/watch/,702,0,0
+1690559731872,4580,Watch,200,OK,Thread Group 1-47,text,true,,187510,248,19,19,https://www.apple.com/watch/,230,0,0
+1690559731872,230,Watch-0,301,Moved Permanently,Thread Group 1-47,,true,,434,124,19,19,http://www.apple.com/watch/,230,0,0
+1690559732103,4349,Watch-1,200,OK,Thread Group 1-47,text,true,,187076,124,19,19,https://www.apple.com/watch/,540,0,0
+1690559729559,6893,Watch,200,OK,Thread Group 1-32,text,true,,187511,248,19,19,https://www.apple.com/watch/,205,0,0
+1690559729559,205,Watch-0,301,Moved Permanently,Thread Group 1-32,,true,,434,124,19,19,http://www.apple.com/watch/,205,0,0
+1690559729765,6687,Watch-1,200,OK,Thread Group 1-32,text,true,,187077,124,19,19,https://www.apple.com/watch/,645,0,0
+1690559728880,7638,Watch,200,OK,Thread Group 1-8,text,true,,187511,248,17,17,https://www.apple.com/watch/,134,0,0
+1690559728880,134,Watch-0,301,Moved Permanently,Thread Group 1-8,,true,,434,124,17,17,http://www.apple.com/watch/,134,0,0
+1690559729013,7505,Watch-1,200,OK,Thread Group 1-8,text,true,,187077,124,17,17,https://www.apple.com/watch/,824,0,0
+1690559733255,3264,Watch,200,OK,Thread Group 1-38,text,true,,187510,248,17,17,https://www.apple.com/watch/,209,0,0
+1690559733255,209,Watch-0,301,Moved Permanently,Thread Group 1-38,,true,,434,124,17,17,http://www.apple.com/watch/,209,0,0
+1690559733465,3054,Watch-1,200,OK,Thread Group 1-38,text,true,,187076,124,17,17,https://www.apple.com/watch/,426,0,0
+1690559726625,9903,Watch,200,OK,Thread Group 1-25,text,true,,187507,248,15,15,https://www.apple.com/watch/,397,0,0
+1690559726625,397,Watch-0,301,Moved Permanently,Thread Group 1-25,,true,,434,124,15,15,http://www.apple.com/watch/,397,0,0
+1690559727022,9506,Watch-1,200,OK,Thread Group 1-25,text,true,,187073,124,15,15,https://www.apple.com/watch/,856,0,0
+1690559722762,13811,Watch,200,OK,Thread Group 1-37,text,true,,187511,248,14,14,https://www.apple.com/watch/,240,0,0
+1690559722762,240,Watch-0,301,Moved Permanently,Thread Group 1-37,,true,,434,124,14,14,http://www.apple.com/watch/,240,0,0
+1690559723003,13570,Watch-1,200,OK,Thread Group 1-37,text,true,,187077,124,14,14,https://www.apple.com/watch/,2471,0,0
+1690559730445,6147,Watch,200,OK,Thread Group 1-41,text,true,,187511,248,13,13,https://www.apple.com/watch/,207,0,0
+1690559730445,207,Watch-0,301,Moved Permanently,Thread Group 1-41,,true,,434,124,13,13,http://www.apple.com/watch/,207,0,0
+1690559730652,5940,Watch-1,200,OK,Thread Group 1-41,text,true,,187077,124,13,13,https://www.apple.com/watch/,2253,0,0
+1690559730612,6097,Watch,200,OK,Thread Group 1-27,text,true,,187511,248,12,12,https://www.apple.com/watch/,238,0,0
+1690559730612,238,Watch-0,301,Moved Permanently,Thread Group 1-27,,true,,434,124,12,12,http://www.apple.com/watch/,238,0,0
+1690559730850,5859,Watch-1,200,OK,Thread Group 1-27,text,true,,187077,124,12,12,https://www.apple.com/watch/,446,0,0
+1690559731726,5070,Watch,200,OK,Thread Group 1-42,text,true,,187510,248,11,11,https://www.apple.com/watch/,245,0,0
+1690559731726,245,Watch-0,301,Moved Permanently,Thread Group 1-42,,true,,434,124,11,11,http://www.apple.com/watch/,245,0,0
+1690559731971,4825,Watch-1,200,OK,Thread Group 1-42,text,true,,187076,124,11,11,https://www.apple.com/watch/,1414,0,0
+1690559727007,9809,Watch,200,OK,Thread Group 1-3,text,true,,187510,248,10,10,https://www.apple.com/watch/,418,0,0
+1690559727007,418,Watch-0,301,Moved Permanently,Thread Group 1-3,,true,,434,124,10,10,http://www.apple.com/watch/,418,0,0
+1690559727425,9391,Watch-1,200,OK,Thread Group 1-3,text,true,,187076,124,10,10,https://www.apple.com/watch/,863,0,0
+1690559729192,7692,Watch,200,OK,Thread Group 1-14,text,true,,187510,248,9,9,https://www.apple.com/watch/,231,0,0
+1690559729192,231,Watch-0,301,Moved Permanently,Thread Group 1-14,,true,,434,124,9,9,http://www.apple.com/watch/,231,0,0
+1690559729423,7461,Watch-1,200,OK,Thread Group 1-14,text,true,,187076,124,9,9,https://www.apple.com/watch/,2450,0,0
+1690559732717,4174,Watch,200,OK,Thread Group 1-49,text,true,,187510,248,8,8,https://www.apple.com/watch/,219,0,0
+1690559732717,219,Watch-0,301,Moved Permanently,Thread Group 1-49,,true,,434,124,8,8,http://www.apple.com/watch/,219,0,0
+1690559732937,3954,Watch-1,200,OK,Thread Group 1-49,text,true,,187076,124,8,8,https://www.apple.com/watch/,442,0,0
+1690559733333,3683,Watch,200,OK,Thread Group 1-23,text,true,,187510,248,7,7,https://www.apple.com/watch/,233,0,0
+1690559733333,233,Watch-0,301,Moved Permanently,Thread Group 1-23,,true,,434,124,7,7,http://www.apple.com/watch/,233,0,0
+1690559733566,3450,Watch-1,200,OK,Thread Group 1-23,text,true,,187076,124,7,7,https://www.apple.com/watch/,646,0,0
+1690559732547,4556,Watch,200,OK,Thread Group 1-34,text,true,,187510,248,6,6,https://www.apple.com/watch/,191,0,0
+1690559729003,8100,Watch,200,OK,Thread Group 1-31,text,true,,187510,248,6,6,https://www.apple.com/watch/,231,0,0
+1690559732547,191,Watch-0,301,Moved Permanently,Thread Group 1-34,,true,,434,124,6,6,http://www.apple.com/watch/,191,0,0
+1690559729003,231,Watch-0,301,Moved Permanently,Thread Group 1-31,,true,,434,124,6,6,http://www.apple.com/watch/,231,0,0
+1690559732738,4365,Watch-1,200,OK,Thread Group 1-34,text,true,,187076,124,6,6,https://www.apple.com/watch/,617,0,0
+1690559729234,7869,Watch-1,200,OK,Thread Group 1-31,text,true,,187076,124,6,6,https://www.apple.com/watch/,427,0,0
+1690559731932,5304,Watch,200,OK,Thread Group 1-29,text,true,,187510,248,4,4,https://www.apple.com/watch/,233,0,0
+1690559731932,233,Watch-0,301,Moved Permanently,Thread Group 1-29,,true,,434,124,4,4,http://www.apple.com/watch/,233,0,0
+1690559732165,5071,Watch-1,200,OK,Thread Group 1-29,text,true,,187076,124,4,4,https://www.apple.com/watch/,2526,0,0
+1690559735843,1497,Watch,200,OK,Thread Group 1-4,text,true,,187511,248,3,3,https://www.apple.com/watch/,237,0,0
+1690559735843,237,Watch-0,301,Moved Permanently,Thread Group 1-4,,true,,434,124,3,3,http://www.apple.com/watch/,237,0,0
+1690559736080,1260,Watch-1,200,OK,Thread Group 1-4,text,true,,187077,124,3,3,https://www.apple.com/watch/,447,0,0
+1690559734614,2768,Watch,200,OK,Thread Group 1-13,text,true,,187511,248,2,2,https://www.apple.com/watch/,211,0,0
+1690559734614,211,Watch-0,301,Moved Permanently,Thread Group 1-13,,true,,434,124,2,2,http://www.apple.com/watch/,211,0,0
+1690559734825,2557,Watch-1,200,OK,Thread Group 1-13,text,true,,187077,124,2,2,https://www.apple.com/watch/,873,0,0
+1690559735406,1997,Watch,200,OK,Thread Group 1-7,text,true,,187511,248,1,1,https://www.apple.com/watch/,231,0,0
+1690559735406,231,Watch-0,301,Moved Permanently,Thread Group 1-7,,true,,434,124,1,1,http://www.apple.com/watch/,231,0,0
+1690559735637,1766,Watch-1,200,OK,Thread Group 1-7,text,true,,187077,124,1,1,https://www.apple.com/watch/,621,0,0
